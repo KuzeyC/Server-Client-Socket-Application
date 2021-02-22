@@ -1,0 +1,35 @@
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.exe
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.deps.json
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.runtimeconfig.json
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.runtimeconfig.dev.json
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.dll
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.pdb
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.csprojAssemblyReference.cache
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.AssemblyInfoInputs.cache
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.AssemblyInfo.cs
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.csproj.CoreCompileInputs.cache
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.dll
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.pdb
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.genruntimeconfig.cache
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.exe
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.deps.json
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.runtimeconfig.json
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.runtimeconfig.dev.json
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.dll
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.pdb
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.csprojAssemblyReference.cache
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.AssemblyInfoInputs.cache
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.AssemblyInfo.cs
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.dll
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.pdb
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\bin\Debug\netcoreapp3.1\BankClient.exe
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\bin\Debug\netcoreapp3.1\BankClient.deps.json
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\bin\Debug\netcoreapp3.1\BankClient.runtimeconfig.json
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\bin\Debug\netcoreapp3.1\BankClient.runtimeconfig.dev.json
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\bin\Debug\netcoreapp3.1\BankClient.dll
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\bin\Debug\netcoreapp3.1\BankClient.pdb
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\obj\Debug\netcoreapp3.1\BankClient.csprojAssemblyReference.cache
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\obj\Debug\netcoreapp3.1\BankClient.AssemblyInfoInputs.cache
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\obj\Debug\netcoreapp3.1\BankClient.AssemblyInfo.cs
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\obj\Debug\netcoreapp3.1\BankClient.dll
+C:\Users\Kuzey\Desktop\All\Uni\Year 3\CE303\CE303_Assignment_CS\BankClient\obj\Debug\netcoreapp3.1\BankClient.pdb
